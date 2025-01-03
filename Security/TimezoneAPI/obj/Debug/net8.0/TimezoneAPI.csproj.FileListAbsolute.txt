@@ -1,0 +1,7 @@
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.csproj.AssemblyReference.cache
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.AssemblyInfoInputs.cache
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.AssemblyInfo.cs
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.csproj.CoreCompileInputs.cache
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manoj\OneDrive\Desktop\WebApi\Security\TimezoneAPI\obj\Debug\net8.0\TimezoneAPI.MvcApplicationPartsAssemblyInfo.cache

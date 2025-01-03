@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "PRNu4Su6WhItOdXeX1zQZ6IjSq+6JKFBtohO8otntY8=",
+  "Source": "StudentApi",
+  "BasePath": "_content/StudentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\manoj\\OneDrive\\Desktop\\My Projects\\new 2\\TimePacketApi\\TimePacketApi.csproj",
+      "Version": 2,
+      "Source": "TimePacketApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
