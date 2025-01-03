@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IQc0z8huznnbpwERMFVOhEl/7WfxsnMmXnSz9gYmjyQ=",
+  "Source": "TimezoneConversionAPI",
+  "BasePath": "_content/TimezoneConversionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
