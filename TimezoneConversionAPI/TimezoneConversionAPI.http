@@ -1,0 +1,6 @@
+@TimezoneConversionAPI_HostAddress = http://localhost:5091
+
+GET {{TimezoneConversionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
